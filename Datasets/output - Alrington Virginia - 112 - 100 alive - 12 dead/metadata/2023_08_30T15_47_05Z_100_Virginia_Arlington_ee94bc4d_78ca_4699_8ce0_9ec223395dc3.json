@@ -1,0 +1,20 @@
+{
+  "runID": "ee94bc4d-78ca-4699-8ce0-9ec223395dc3",
+  "seed": 1693410425678,
+  "clinicianSeed": 1693410425678,
+  "referenceTime": "20230830",
+  "endTime": "20230830",
+  "version": "a0a3b68\n",
+  "patientCount": 112,
+  "providerCount": 1667,
+  "payerCount": 9,
+  "javaVersion": "20.0.1",
+  "generate.thread_pool_size": -1,
+  "generatorThreads": 12,
+  "runStartTime": "2023-08-30T15:47:05Z",
+  "runTimeInSeconds": 24,
+  "exporter.years_of_history": "10",
+  "city": "Arlington",
+  "state": "Virginia",
+  "modules": "*"
+}
