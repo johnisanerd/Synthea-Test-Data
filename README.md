@@ -12,7 +12,7 @@ The command given was `java -jar synthea-with-dependencies.jar -p 100`
 
 ### output - Alrington Virginia - 112 - 100 alive - 12 dead 
 
-The data generated was 112 patients, generated with Synthea.  It should reflect Arlington Virginia population.  It should have 112 patients, with 100 alive and 12 dead.
+The data generated was 112 patients, generated with Synthea.  It should reflect Arlington Virginia population.  It should have 112 patients, with 100 alive and 12 dead.  The command given was `java -jar synthea-with-dependencies.jar -p 100 Virginia Arlington`
 
 ## More Information
 
