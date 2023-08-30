@@ -1,7 +1,7 @@
 # Synthea-Test-Data
 
 
-These datasests were generated using Synthea software.  
+These datasests were generated using [Synthea software](https://github.com/synthetichealth/synthea).  
 
 ## Folders:
 
